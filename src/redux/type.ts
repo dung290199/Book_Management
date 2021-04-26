@@ -1,0 +1,31 @@
+export const SET = "set";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const USERS_LOADED = "USERS_LOADED";
+export const USER_CREATE = "USER_CREATE";
+export const USER_UPDATE = "USER_UPDATE";
+export const USER_DELETE = "USER_DELETE";
+export const USER_LOADED = "USER_LOADED";
+
+export const BOOKS_LOADED = "BOOKS_LOADED";
+export const BOOK_CREATE = "BOOK_CREATE";
+export const BOOK_UPDATE = "BOOK_UPDATE";
+export const BOOK_DELETE = "BOOK_DELETE";
+export const BOOK_LOADED = "BOOK_LOADED";
+
+export const AUTHORS_LOADED = "AUTHORS_LOADED";
+export const AUTHOR_CREATE = "AUTHOR_CREATE";
+export const AUTHOR_UPDATE = "AUTHOR_UPDATE";
+export const AUTHOR_DELETE = "AUTHOR_DELETE";
+export const AUTHOR_LOADED = "AUTHOR_LOADED";
+export const AUTHOR_SEARCHED_BY_NAME = "AUTHOR_SEARCHED_BY_NAME";
+
+export const CATEGORIES_LOADED = "CATEGORIES_LOADED";
+export const CATEGORY_CREATE = "CATEGORY_CREATE";
+export const CATEGORY_UPDATE = "CATEGORY_UPDATE";
+export const CATEGORY_DELETE = "CATEGORY_DELETE";
+export const CATEGORY_LOADED = "CATEGORY_LOADED";
+export const CATEGORY_SEARCHED_BY_NAME = "CATEGORY_SEARCHED_BY_NAME";
